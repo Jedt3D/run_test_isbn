@@ -1,0 +1,18 @@
+GIT
+  remote: git@github.com:Jedt3D/isbn_field.git
+  revision: da06b4dea5317315e234da6f8a842c3ea6d098f2
+  specs:
+    isbn_field (0.1.1)
+
+GEM
+  specs:
+
+PLATFORMS
+  arm64-darwin-24
+  ruby
+
+DEPENDENCIES
+  isbn_field!
+
+BUNDLED WITH
+   2.6.9
